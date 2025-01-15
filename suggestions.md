@@ -79,7 +79,9 @@ Data Sources (Publicly Available)
 Internal Temporary Notes
 -------------
 
-Attributes to describe
+Examples of attributes to describe for each resource
 
-* one-time cohort vs any-time/on-demand access
-* free vs paid
+* one-time cohort vs any-time/on-demand access.
+* free vs paid.
+* dates each resource was introduced and last updated.
+* [TRUST](https://www.nature.com/articles/s41597-020-0486-7) & [FAIR](https://www.go-fair.org/fair-principles/) Principles _suggested by Etienne Gnimpieba Z.
