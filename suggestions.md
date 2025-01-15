@@ -51,7 +51,7 @@ Training & Learning Skills
 
 ### Genomics
 
-* R Bioconductor
+* [Bioconductor](https://www.bioconductor.org/)
 * [Add more tools, and their links]
 
 ### AI
