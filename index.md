@@ -25,7 +25,7 @@ amandabbraley - braley@ohsu.edu -->
 
 * [Juli Petereit](https://github.com/julipetal)
 * [Cassandra Hui](https://github.com/cassandra-hui)
-* [Yasir Rahamataliah](https://github.com/yrahmatallah)
+* [Yasir Rahamataliah](https://github.com/yrahmatallah), Associate Professor, Department of Biomedical Informatics, University of Arkansas for Medical Sciences
 * [Anna Bennett](https://github.com/amb599)
 * [Amanda Braley](https://github.com/amandabbraley)
 * [Will Beasley](https://github.com/wibeasley), University of Oklahoma Health Sciences, Associate Director of [Office of Clinical Research Informatics](https://research.ouhsc.edu/ocri)
