@@ -9,11 +9,45 @@ Training & Learning Skills
 
 ### Basic
 
-* Julia
-* Python
-* R
-* SQL
-* GitHub
+#### SQL
+
+* [SQLBolt](https://sqlbolt.com/)
+
+  > A series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser
+
+* [Best Practices in Working with Databases](https://solutions.posit.co/connections/db/), by Posit
+
+#### R
+
+* [R for Data Science (2e)](https://r4ds.hadley.nz/), by Hadley Wickham, Mine Cetinkaya-Rundel, Garrett Grolemund
+
+  > Learn how to get your data into R, get it into the most useful structure, transform it and visualize.
+
+* [Advanced R](https://adv-r.hadley.nz/)
+
+  > Primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as help you to understand why R works the way it does.
+
+* [Reproducible Medical Research with R](https://bookdown.org/pdr_higgins/rmrwr/) by Peter Higgins
+
+  > For anyone in the medical field interested in analyzing the data available to them to better understand health, disease, or the delivery of care
+
+* [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/)
+
+  > For readers who want to develop the appropriate skills to tackle complex data science projects and “think with data”
+
+#### Python
+
+* [Add more tools, and their links]
+
+#### Julia
+
+* [Add more tools, and their links]
+
+#### GitHub
+
+* [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+
+  > The use of Git/GitHub in data science has a slightly different vibe from that of pure software development, due to differences in the user’s context and objective. Happy Git aims to complement existing, general Git resources by highlighting the most rewarding usage patterns for data science. This perspective on the Git landscape is presented in Basic Git Concepts and Daily Workflows.
 
 ### Genomics
 
